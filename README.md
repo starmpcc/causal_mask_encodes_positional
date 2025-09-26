@@ -1,5 +1,5 @@
 # Beyond RoPE: How Does Causal Mask Encode Positional Information?
-- An official implementation of the paper [Beyond RoPE: How Does Causal Mask Encode Positional Information?]()
+- An official implementation of the paper [Beyond RoPE: How Does Causal Mask Encode Positional Information?](https://arxiv.org/abs/2312.17044v4)
 
 ![image](main.png)
 
@@ -20,4 +20,14 @@
 
 
 ## Citation
-Citation information will be added soon.
+```
+@misc{kim2025ropedoescausalmask,
+      title={Behind RoPE: How Does Causal Mask Encode Positional Information?}, 
+      author={Junu Kim and Xiao Liu and Zhenghao Lin and Lei Ji and Yeyun Gong and Edward Choi},
+      year={2025},
+      eprint={2509.21042},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.21042}, 
+}
+```
